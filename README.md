@@ -52,26 +52,22 @@ This tool was made for:
 Here is an example of the report outputted
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 👑🍓✨ FINAL ROYAL REPORT ✨🍓👑
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 👸🏼 Royal Scrolls of Triumph — PDFs Transformed with Magic and Majesty:
-  👑 math-guide.pdf → 6 enchanted page(s) out of 6 💯
-  👑 science-handout.pdf → 4 enchanted page(s) out of 5 🧐
-  👑 curriculum-notes.pdf → 3 enchanted page(s) out of 3 💯
+  👑 math-guide.pdf → 6 enchanted page(s) out of 6 💯  
+  👑 science-handout.pdf → 4 enchanted page(s) out of 5 🧐  
+  👑 curriculum-notes.pdf → 3 enchanted page(s) out of 3 💯  
 
 🔮✨ Files with Partial Magic (pages ≠ matches):
-  ⚠️ science-handout.pdf — please review this suspicious scroll again, royal one 🕵🏼‍♀️✨
+  ⚠️ science-handout.pdf — please review this suspicious scroll again, royal one 🕵🏼‍♀️✨  
 
 🚫❄️ Scrolls That Resisted All Spells (No Matches Found):
-  ❌ forgotten-manuscript.pdf (2 royal pages) — untouched by charm ✋✨
-  ❌ appendix-2023.pdf (7 royal pages) — magic-proof parchment 👻
+  ❌ forgotten-manuscript.pdf (2 royal pages) — untouched by charm ✋✨  
+  ❌ appendix-2023.pdf (7 royal pages) — magic-proof parchment 👻  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ❤️ Go get a snack, content queen — you’ve earned it. 🧁✨ 👑
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
