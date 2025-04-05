@@ -7,9 +7,9 @@ A beginner-friendly batch PDF text replacement tool — built for non-coders to 
 
 ## 📦 What This Tool Does
 
-- Replaces specific text in **all PDFs in a folder**
+- Find/Replaces specific text in **all PDFs in a folder** 
 - Maintains formatting (font, color, size)
-- Outputs edited files into a clean folder
+- Outputs edited files into a clean folder with SA after the name
 - Works on **macOS** (no coding knowledge required)
 - Provides a fun emoji report with match counts 👸🏼🍓✨
 
