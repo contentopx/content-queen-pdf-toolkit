@@ -52,6 +52,7 @@ This tool was made for:
 Here is an example of the report outputted
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 👑🍓✨ FINAL ROYAL REPORT ✨🍓👑
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -68,6 +69,7 @@ Here is an example of the report outputted
   ❌ appendix-2023.pdf (7 royal pages) — magic-proof parchment 👻
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ❤️ Go get a snack, content queen — you’ve earned it. 🧁✨ 👑
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
