@@ -54,6 +54,7 @@ Here is an example of the report outputted
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 👑🍓✨ FINAL ROYAL REPORT ✨🍓👑
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 👸🏼 Royal Scrolls of Triumph — PDFs Transformed with Magic and Majesty:
@@ -71,5 +72,6 @@ Here is an example of the report outputted
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ❤️ Go get a snack, content queen — you’ve earned it. 🧁✨ 👑
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
