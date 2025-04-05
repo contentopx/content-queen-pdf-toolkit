@@ -44,8 +44,9 @@ A beginner-friendly batch PDF text replacement tool — built for non-coders to 
 ## 🧁 Built For
 
 This tool was made for:
-- 📚 Updating OpenStax licensing across PDFs
+- 📚 Updating text phrasees across PDFs
 - 📝 Batch editing educational or branded documents
-- 🧑🏽‍💻 Non-technical users (aka your junior staff!)
+- 🧑🏽‍💻 Non-technical users
+
 
 ---
