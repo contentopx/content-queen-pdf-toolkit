@@ -49,8 +49,6 @@ This tool was made for:
 - 🧑🏽‍💻 Non-technical users
 
 ---
-Here is an example of the report outputted
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
